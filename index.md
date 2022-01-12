@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Jorge Ruiz
 Hey this is a test
-You can use the [editor on GitHub](https://github.com/jorgeruizm94/jorgeruiz.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+I'm a multidisciplinary designer from Mexico. Currently based in Vancouver, British Columbia. I graduated from a bachelors degree in Design back in 2018 at ITESO, tech University located in Guadalajara Mexico.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
