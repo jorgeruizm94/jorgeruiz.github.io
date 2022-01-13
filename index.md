@@ -1,13 +1,15 @@
 ## Jorge Ruiz
-Hey this is a test
+
+```markdown
+Design/ Photography/ 3d Modeling/ UX Design
+```
 
 I'm a multidisciplinary designer from Mexico. Currently based in Vancouver, British Columbia. I graduated from a bachelors degree in Design back in 2018 at ITESO, tech University located in Guadalajara Mexico.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Genesis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I was born in Mazatlán Sinaloa. One of the most beautiful beaches in Mexico. Then moved to Florianopolis Santa Catarina when I was 18, moved to Guadalajara to study Design after 1 year in Brasil. Spent 7 months studying abroad in Tasmania Australia. 
 
 ```markdown
 Syntax highlighted code block
@@ -27,7 +29,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+If you want to see my design portfolio click [My Behance](https://www.behance.net/jruizm).
 
 ### Jekyll Themes
 
