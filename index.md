@@ -29,7 +29,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-If you want to see my design portfolio click [My Behance](https://www.behance.net/jruizm).
+If you want to see my design portfolio [click here](https://www.behance.net/jruizm).
 
 ### Jekyll Themes
 
